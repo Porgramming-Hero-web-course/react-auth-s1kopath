@@ -1,0 +1,22 @@
+.cardInfo img{
+    height: 80px;
+    margin: 20px;
+    
+}
+.cardInfo{
+    width: 180px;
+    border: 1px solid white;
+    border-radius: 15px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 100px;
+    margin-bottom: 15px;
+    background-color: white;
+}
+.main-bg{
+    background: url(../../Bg.png) no-repeat center center fixed;
+    background-size: cover
+}
+.card-style{
+    margin-top: 200px;
+}

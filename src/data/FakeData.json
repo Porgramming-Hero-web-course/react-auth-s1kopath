@@ -1,0 +1,30 @@
+[{
+    "id": 1,
+    "vehicleName": "BIKE",
+    "vehicleImage": "https://lh3.googleusercontent.com/0MNRqMMc_t1YHFa5tQ9d9_bK2dRFmLlLMqvldMwgFAD7j4GwlgBtNuLk-XuUbTj4wKFA=s101",
+    "vehicleSeat": 2,
+    "ticketPrice": 50,
+    "vehicleDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore expedita quae, eligendi excepturi at dignissimos? Itaque reiciendis fuga quam est."
+  }, {
+    "id": 2,
+    "vehicleName": "CAR",
+    "vehicleImage": "https://www.climatecompensation.online/wp-content/themes/fundingpress/calculadoras/img/icons/nuevos/carro_color.png",
+    "vehicleSeat": 4,
+    "ticketPrice": 100,
+    "vehicleDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore expedita quae, eligendi excepturi at dignissimos? Itaque reiciendis fuga quam est."
+  }, {
+    "id": 3,
+    "vehicleName": "BUS",
+    "vehicleImage": "https://lh3.googleusercontent.com/K7aE0_W7sRS_e_genu7vzYIFJ3JjleO3X_wPr8Nl95YHyEl7ioFt7e8xgBxNloSsnKzpWg=s109",
+    "vehicleSeat": 20,
+    "ticketPrice": 150,
+    "vehicleDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore expedita quae, eligendi excepturi at dignissimos? Itaque reiciendis fuga quam est."
+  }, {
+    "id": 4,
+    "vehicleName": "TRAIN",
+    "vehicleImage": "https://lh3.googleusercontent.com/XSpCS6Q6Xqk86KaQEpVXKlGkXtwSltbeRfsmpdrly5oAvwKHHB6JxQdWeF0tdTTTPUkHGw=s103",
+    "vehicleSeat": 50,
+    "ticketPrice": 200,
+    "vehicleDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore expedita quae, eligendi excepturi at dignissimos? Itaque reiciendis fuga quam est."
+  }
+]

@@ -1,0 +1,35 @@
+form img{
+    width: 25px;
+}
+.main-div{
+    background-color: white;
+    padding: 50px;
+    width: 570px;
+    height: 457px;
+    border: 1px solid gray;
+    
+}
+.connect-button{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 42px;
+    margin-bottom: 50px;
+    float: inline-start;
+    
+    
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.log-in-button{
+    background-color: #FF6E40;
+    width: 461px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    padding: 12px, 29px, 12px, 29px ;
+    color: white;
+
+}

@@ -1,0 +1,10 @@
+.log-in-button{
+    background-color: #FF6E40;
+    height: 44px;
+    width: 104px;
+    border: none;
+    border-radius: 5px;
+    padding: 12px, 29px, 12px, 29px ;
+    color: white;
+
+}

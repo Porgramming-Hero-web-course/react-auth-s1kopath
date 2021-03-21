@@ -1,0 +1,9 @@
+.search-btn{
+    background-color: #FF6E40;
+    width: 255px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    padding: 12px, 29px, 12px, 29px ;
+    color: white;
+}
